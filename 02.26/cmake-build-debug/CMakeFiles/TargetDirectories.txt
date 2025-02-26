@@ -1,0 +1,3 @@
+/home/stud-04/Semestre 4/Regex_with_Calculator/02.26/cmake-build-debug/CMakeFiles/02_26.dir
+/home/stud-04/Semestre 4/Regex_with_Calculator/02.26/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/stud-04/Semestre 4/Regex_with_Calculator/02.26/cmake-build-debug/CMakeFiles/rebuild_cache.dir
